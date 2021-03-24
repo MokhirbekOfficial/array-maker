@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;;
+    width: 500px;;
+}
+.arrays{
+    display: block;
+    font-size: 20px;
+    margin-top: 20px;
+    color: red;
+}
